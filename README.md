@@ -6,6 +6,6 @@ Implemented Algorithm :
   - Knot Law
   - Gaussian Elimination to Solve Linear Equations
 ## Main Frame:
-![Main Frame](https://github.com/Nezz7/RLC-Circuit-Simulator/blob/master/Calculation%20Frame%20.PNG)
+![Main Frame](https://github.com/Nezz7/RLC-Circuit-Simulator/blob/master/Main%20Frame.PNG)
 ## Calculation Frame :
-![Calculation Frame](https://github.com/Nezz7/RLC-Circuit-Simulator/blob/master/Main%20Frame.PNG)
+![Calculation Frame](https://github.com/Nezz7/RLC-Circuit-Simulator/blob/master/Calculation%20Frame%20.PNG)
